@@ -1,0 +1,33 @@
+name: elearning_app
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0" # Saya kembalikan ini ke versi yang lebih kompatibel
+
+# -------------------------------------------------------------------
+# BAGIAN YANG BENAR ADA DI SINI
+# -------------------------------------------------------------------
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Paket aplikasi Anda ditaruh DI SINI
+  get: ^4.6.6
+  carousel_slider: ^4.2.1
+
+# -------------------------------------------------------------------
+# BAGIAN INI HANYA UNTUK TESTING
+# -------------------------------------------------------------------
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+# -------------------------------------------------------------------
+
+flutter:
+  uses-material-design: true
