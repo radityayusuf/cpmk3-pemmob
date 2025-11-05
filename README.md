@@ -1,5 +1,10 @@
 # elearning_app
 
+Video demo :
+
+https://github.com/user-attachments/assets/161dbfed-c200-4417-9d3b-5c6aef7a6683
+
+
 Tampilan : 
 <img width="438" height="935" alt="image" src="https://github.com/user-attachments/assets/e04c68bb-f5d1-44e3-a015-0cb9121a7195" />
 
